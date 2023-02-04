@@ -1,0 +1,31 @@
+
+.section1{
+    background-color: black;
+    width: px;
+    height: vh;
+    text-align: left;
+}
+.image{
+    width: 98%;
+    height: 350px;
+    background-color: brown;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+.row{
+    display: none;
+}
+.row .item {
+    display: none;
+}
+.section1 h1 {
+
+    display: none;
+    font-size: 50px;
+}
+.row{
+        margin:0px;
+        padding: 0px;
+}
